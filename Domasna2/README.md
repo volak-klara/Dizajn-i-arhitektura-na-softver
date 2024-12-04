@@ -4,9 +4,9 @@
 Домашна 2 претставува DEMO апликација за тоа како би изгледал финалниот резултат. Базата на податоци во демото е само пример со рандом податоци кои ни прикажуваат како би работела вистинската база. Во понатамошниот развој на проектот ќе бидат имплементирани овие измени, како и  соодветна страна за најава и регистрација на корисник.
 
 ## Table of Contents
-- [Architecture](./Domasna2/architecture/)
-- [Mockups](./Domasna2/mockups/)
-- [Tech-Prototype](./Domasna2/tech-prototype/)
-- [Video](./Domasna2/video-presentation.mp4)
+- [Architecture](./architecture/)
+- [Mockups](./mockups/)
+- [Tech-Prototype](./tech-prototype/)
+- [Video](./video-presentation.mp4)
 
 
