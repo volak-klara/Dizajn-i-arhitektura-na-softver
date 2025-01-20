@@ -1,0 +1,2 @@
+MSE_Code,Company,Last_Price,Price_Change_Pct,Avg_Price,Price_Max,Price_Min,Price_Volatility,Avg_Volume,Total_Turnover,Trading_Days,Trading_Frequency,Market_Activity_Score,Fundamental_Score,News_Count,First_Date,Last_Date,Recommendation
+USJE,Цементарница УСЈЕ АД Скопје,37150.0,0.0,37075.0,37150.0,37000.0,86.6,0.0,0.0,4,0.0,0.11,0.04,3,2024-07-31,2024-10-31,HOLD

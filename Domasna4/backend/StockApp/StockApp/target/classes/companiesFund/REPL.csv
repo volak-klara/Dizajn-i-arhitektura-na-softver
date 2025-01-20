@@ -1,0 +1,2 @@
+MSE_Code,Company,Last_Price,Price_Change_Pct,Avg_Price,Price_Max,Price_Min,Price_Volatility,Avg_Volume,Total_Turnover,Trading_Days,Trading_Frequency,Market_Activity_Score,Fundamental_Score,News_Count,First_Date,Last_Date,Recommendation
+REPL,Реплек АД Скопје,15100.0,0.0,15100.0,15100.0,15100.0,,0.0,0.0,1,0.0,0.04,0.02,1,2024-11-06,2024-11-06,SELL
