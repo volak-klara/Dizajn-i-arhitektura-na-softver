@@ -1,0 +1,2 @@
+MSE_Code,Company,Last_Price,Price_Change_Pct,Avg_Price,Price_Max,Price_Min,Price_Volatility,Avg_Volume,Total_Turnover,Trading_Days,Trading_Frequency,Market_Activity_Score,Fundamental_Score,News_Count,First_Date,Last_Date,Recommendation
+TEL,Македонски Телеком АД Скопје,85000.0,0.0,85499.95,89000.0,84000.0,1760.28,257.83,131555995.0,6,1.0,0.73,0.59,4,2024-07-31,2024-10-31,BUY

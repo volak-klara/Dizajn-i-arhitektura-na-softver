@@ -1,0 +1,2 @@
+MSE_Code,Company,Last_Price,Price_Change_Pct,Avg_Price,Price_Max,Price_Min,Price_Volatility,Avg_Volume,Total_Turnover,Trading_Days,Trading_Frequency,Market_Activity_Score,Fundamental_Score,News_Count,First_Date,Last_Date,Recommendation
+GRNT,Гранит АД Скопје,1440.0,0.0,1492.14,1600.0,1400.0,92.19,162.41,9341095.0,7,1.0,0.63,0.55,3,2024-07-31,2024-10-31,BUY
